@@ -1,5 +1,5 @@
 # ES6 / ES2015 - boilerplate
-Standard ES2015+ Boilerplate configured with Babel, Webpack and ESlint.
+Next level and standard ES2015+ Boilerplate configured with Babel, Webpack and ESlint.
 
 ## Usage
 
